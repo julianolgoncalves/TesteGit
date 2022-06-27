@@ -1,0 +1,2 @@
+Para enviar minhas modificações locais eu preciso utilizar o comando
+git push
